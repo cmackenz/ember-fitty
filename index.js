@@ -5,7 +5,7 @@ module.exports = {
   name: 'ember-fitty',
   options: {
     nodeAssets: {
-      echarts: {
+      fitty: {
         srcDir: 'dist',
         import: ['fitty.js']
       }
