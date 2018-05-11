@@ -6,7 +6,7 @@ module.exports = {
   options: {
     nodeAssets: {
       fitty: {
-        srcDir: 'dist',
+        srcDir: 'src',
         import: ['fitty.js']
       }
     }
